@@ -252,7 +252,7 @@ services:
       - RUSTFS_ACCESS_KEY=rustfsadmin
       - RUSTFS_SECRET_KEY=rustfsadmin
       # 日志级别
-      - RUSTFS_LOG_LEVEL=info
+      - RUSTFS_OBS_LOGGER_LEVEL=info
 
     volumes:
       # 存储数据卷（请根据实际情况修改路径）
