@@ -14,7 +14,7 @@ export default defineAdditionalConfig({
       { text: 'SDK', link: '/developer/sdk/' },
       { text: '演示', link: 'https://play.rustfs.com' },
       { text: '社区', link: 'https://github.com/rustfs/rustfs/discussions' },
-      { text: '关于', link: '/about' },
+      { text: '博客', link: 'https://rustfs.dev/' },
     ],
 
     sidebar: {
